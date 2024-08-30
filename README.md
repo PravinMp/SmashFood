@@ -25,7 +25,6 @@ Welcome to Smash Food, an e-commerce website template for a food delivery servic
 
 - **HTML5**
 - **CSS3**
-- **Bootstrap 5**
 
 ## Setup
 
@@ -33,7 +32,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/YourUsername/smash-food.git
+    git clone https://github.com/PravinMp/smash-food.git
     ```
 2. **Navigate to the project directory**:
     ```bash
